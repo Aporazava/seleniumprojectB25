@@ -40,7 +40,7 @@ public class T3_RadioButtonContinue {
     }
 
 
-    private static void clickAndVerifyRadioButton(){
+        private static void clickAndVerifyRadioButton(WebDriver driver, String nameAttribute, String idValue){
 
     }
 
