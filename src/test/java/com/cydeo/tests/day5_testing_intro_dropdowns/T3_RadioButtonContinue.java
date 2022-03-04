@@ -35,7 +35,7 @@ public class T3_RadioButtonContinue {
         }
         //  4. Verify “Hockey” radio button is selected after clicking.
 
-      //  USE XPATH LOCATOR FOR ALL WEBELEMENT LOCATORS
+      //  USE XPATH LOCATOR FOR ALL WEB ELEMENT LOCATORS
 
     }
 
